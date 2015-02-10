@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Pincouver
+tagline:          'Playing pinball in Vancouver'
+description:      'Playing pinball in Vancouver'
+url:              http://lytfyre.github.io/VancouverPinball
+
+author:
+  name:           'Jon'
+  url:            
+
+paginate:         10
+
+# Custom vars
+version:          1.0
+
+github:           
+  repo:           https://github.com/lytfyre/VancouverPinball
