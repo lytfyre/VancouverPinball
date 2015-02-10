@@ -43,6 +43,82 @@ To Be Announced.
 
 ## Current Standings
 
-To be added. 
+| Player | Week 0 | Week 1 | Week 2 | Week 3 | Week 4 | Points
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- 
+|**Aaron Ryall**|0|45|0|0|0|**45**|
+|**Al Smith**|44|0|0|0|0|**44**|
+|**Alyson White**|41|46|0|0|0|**87**|
+|**Andreas Pettersson**|43|0|0|0|0|**43**|
+|**Andrei Rojas**|0|48|0|0|0|**48**|
+|**Andy Petsnick**|43|0|0|0|0|**43**|
+|**Angelo Muro**|0|52|0|0|0|**52**|
+|**Anthony Wallace**|0|50|0|0|0|**50**|
+|**Anton Glavas**|40|46|0|0|0|**86**|
+|**Ben Bondy**|0|45|0|0|0|**45**|
+|**Blake Hurdle**|42|48|0|0|0|**90**|
+|**Bonnie Bedford**|0|49|0|0|0|**49**|
+|**Brad Kerr**|40|0|0|0|0|**40**|
+|**Brennan Lloyd**|40|54|0|0|0|**94**|
+|**Cam McLeod**|0|45|0|0|0|**45**|
+|**Chad Bruhaug**|41|48|0|0|0|**89**|
+|**Chad Wren**|0|45|0|0|0|**45**|
+|**Clay Easter**|0|45|0|0|0|**45**|
+|**Corey Dale**|40|46|0|0|0|**86**|
+|**Dale Savage**|0|47|0|0|0|**47**|
+|**Dani Wimmer**|0|45|0|0|0|**45**|
+|**Darryl Scholten**|0|46|0|0|0|**46**|
+|**Derek Houg**|0|45|0|0|0|**45**|
+|**Eden Stamm**|46|47|0|0|0|**93**|
+|**Elise Vredenbregt**|40|0|0|0|0|**40**|
+|**Esteban Astudillo**|0|47|0|0|0|**47**|
+|**Felipe Munoz**|0|49|0|0|0|**49**|
+|**Garret Wolf**|41|45|0|0|0|**86**|
+|**Hamish**|40|0|0|0|0|**40**|
+|**Ian Lang**|43|47|0|0|0|**90**|
+|**Ira Young**|44|0|0|0|0|**44**|
+|**Jana Jacques**|0|46|0|0|0|**46**|
+|**Jay Single**|42|0|0|0|0|**42**|
+|**Jess Halley**|42|47|0|0|0|**89**|
+|**Joel Murdoch**|43|0|0|0|0|**43**|
+|**Jon Grieman**|45|47|0|0|0|**92**|
+|**Jordan Hudson**|43|46|0|0|0|**89**|
+|**Kazu Arai**|41|0|0|0|0|**41**|
+|**Kelsey Blair**|40|45|0|0|0|**85**|
+|**Kim Bailey**|40|0|0|0|0|**40**|
+|**Kirk Jong**|43|51|0|0|0|**94**|
+|**Kobi Thomson**|0|47|0|0|0|**47**|
+|**Kristin Hardie**|0|45|0|0|0|**45**|
+|**Kurtis Rasmussen**|42|47|0|0|0|**89**|
+|**Kyle Bee**|42|50|0|0|0|**92**|
+|**Lewis**|41|0|0|0|0|**41**|
+|**Lindsay Partin**|41|48|0|0|0|**89**|
+|**Maeghan Dunn**|0|47|0|0|0|**47**|
+|**Marie Peltier**|0|46|0|0|0|**46**|
+|**Marisa Barbetta**|0|47|0|0|0|**47**|
+|**Mary Mac**|0|47|0|0|0|**47**|
+|**Matt Ewan**|0|46|0|0|0|**46**|
+|**Matt Ewen**|42|0|0|0|0|**42**|
+|**Matty McLean**|42|49|0|0|0|**91**|
+|**Michael Saavedra**|40|46|0|0|0|**86**|
+|**Michelle Ross**|41|0|0|0|0|**41**|
+|**Nick Wadden**|40|46|0|0|0|**86**|
+|**Nolan Veljacic**|41|47|0|0|0|**88**|
+|**Peter Skolbebring**|43|0|0|0|0|**43**|
+|**Pussy Pete**|0|47|0|0|0|**47**|
+|**Robert Gagno**|46|48|0|0|0|**94**|
+|**Ryan Guy**|0|45|0|0|0|**45**|
+|**Sandrine Extier**|40|0|0|0|0|**40**|
+|**Sara Little**|40|0|0|0|0|**40**|
+|**Scott Jack**|0|46|0|0|0|**46**|
+|**Scott Wrixon**|42|46|0|0|0|**88**|
+|**Sean Lind**|47|49|0|0|0|**96**|
+|**Shawn Haley**|42|49|0|0|0|**91**|
+|**Steffanie Kessanich**|41|0|0|0|0|**41**|
+|**Stephen Hardie**|49|0|0|0|0|**49**|
+|**Sterling Nelson**|40|0|0|0|0|**40**|
+|**Steve Gonda**|41|0|0|0|0|**41**|
+|**Tessa Russell**|41|46|0|0|0|**87**|
+|**Warren Koch**|45|45|0|0|0|**90**|
+
 
 
