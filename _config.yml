@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 pygments:         true
 
 # Permalinks
@@ -22,3 +22,4 @@ version:          1.0
 
 github:           
   repo:           https://github.com/lytfyre/VancouverPinball
+
