@@ -10,6 +10,7 @@ title:            Pincouver
 tagline:          'Playing pinball in Vancouver'
 description:      'Playing pinball in Vancouver'
 url:              http://lytfyre.github.io/VancouverPinball
+baseurl:          '/VancouverPinball'
 
 author:
   name:           'Jon'
