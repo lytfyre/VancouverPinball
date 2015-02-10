@@ -96,15 +96,13 @@ To Be Announced.
 |**Marie Peltier**|0|46|0|0|0|**46**|
 |**Marisa Barbetta**|0|47|0|0|0|**47**|
 |**Mary Mac**|0|47|0|0|0|**47**|
-|**Matt Ewan**|0|46|0|0|0|**46**|
-|**Matt Ewen**|42|0|0|0|0|**42**|
+|**Matt Ewan**|42|46|0|0|0|**88**|
 |**Matty McLean**|42|49|0|0|0|**91**|
 |**Michael Saavedra**|40|46|0|0|0|**86**|
 |**Michelle Ross**|41|0|0|0|0|**41**|
 |**Nick Wadden**|40|46|0|0|0|**86**|
 |**Nolan Veljacic**|41|47|0|0|0|**88**|
 |**Peter Skolbebring**|43|0|0|0|0|**43**|
-|**Pussy Pete**|0|47|0|0|0|**47**|
 |**Robert Gagno**|46|48|0|0|0|**94**|
 |**Ryan Guy**|0|45|0|0|0|**45**|
 |**Sandrine Extier**|40|0|0|0|0|**40**|
@@ -114,11 +112,12 @@ To Be Announced.
 |**Sean Lind**|47|49|0|0|0|**96**|
 |**Shawn Haley**|42|49|0|0|0|**91**|
 |**Steffanie Kessanich**|41|0|0|0|0|**41**|
-|**Stephen Hardie**|49|0|0|0|0|**49**|
+|**Stephen Hardie**|49|47|0|0|0|**96**|
 |**Sterling Nelson**|40|0|0|0|0|**40**|
 |**Steve Gonda**|41|0|0|0|0|**41**|
 |**Tessa Russell**|41|46|0|0|0|**87**|
 |**Warren Koch**|45|45|0|0|0|**90**|
+|**nobody**|0|0|2|2|2|**6**|
 
 
 
