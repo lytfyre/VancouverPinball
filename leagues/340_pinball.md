@@ -13,7 +13,7 @@ location: http://pub340.ca/
 Welcome to the Pub 340 2015 pinball league!
 
 ##Details:
-
+- See the [Facebook Page](https://www.facebook.com/events/1391183377853322) for discussion and questions.
 - All events are $6 entry. $3 goes to games, $3 goes to prize pot for the day. 
 - No coin drop for tournament games
 - Top 2 or 3 get paid each event depending on turnout.
