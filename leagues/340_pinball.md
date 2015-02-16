@@ -29,15 +29,15 @@ Welcome to the Pub 340 2015 pinball league!
 | Date | Time | Format 
 | ---- | ---- | -----
 | Sunday Feb 1 |6:00 PM| 3 strikes
-| Sunday Feb 22 |6:00 PM| 3 strikes 
+| Sunday Feb 22 |12:00 PM| 3 strikes 
 | Friday March 27 |7:00| One handed team play 
-| Sunday Apr 26 |6:00 PM| 3 strikes 
+| Sunday Apr 26 |12:00 PM| 3 strikes 
 | Friday May 29 |7:00| Tommy vision 
-| Sunday July 26 |6:00 PM| 3 strikes 
+| Sunday July 26 |12:00 PM| 3 strikes 
 | Friday Sept 18 |7:00| TBD (something wacky)
-| Sunday Oct 25 |6:00 PM| 3 strikes 
-| Sunday Nov 29 |6:00 PM| 3 strikes 
-| Sunday Dec 13 |6:00 PM| Finals - Reverse bracket top 8
+| Sunday Oct 25 |12:00 PM| 3 strikes 
+| Sunday Nov 29 |12:00 PM| 3 strikes 
+| Sunday Dec 13 |12:00 PM| Finals - Reverse bracket top 8
 
 ## LEAGUE FINALS PRIZE POOL BREAKDOWN:
 TBD - but it will not be heavily weighted towards the top 3 players as some standard breakdowns seen in pinball tournaments. Money will be spread out more between all players of the top 8.
