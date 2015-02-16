@@ -44,4 +44,24 @@ TBD - but it will not be heavily weighted towards the top 3 players as some stan
 
 ## Current Standings
 
-Coming Soon!
+| Position | Player | Event 1 | Points
+| ------- | ------- | ------- | ------- 
+|1|**Robert Gagno**|20.0|**20.0**|
+|2|**Jordan Hudson**|17.0|**17.0**|
+|3|**Eden Stamm**|14.5|**14.5**|
+|4|**Kyle Bee**|14.5|**14.5**|
+|5|**Dave Mercier**|13.5|**13.5**|
+|6|**Larry Ng**|11.5|**11.5**|
+|7|**Brennan Lloyd**|11.5|**11.5**|
+|8|**Snickers Wallace**|11.5|**11.5**|
+|9|**Sara Little**|9.5|**9.5**|
+|10|**Larry Glowacki**|9.5|**9.5**|
+|11|**Kyle Seller**|9.5|**9.5**|
+|12|**Darryl 340**|7.5|**7.5**|
+|13|**Jon Grieman**|7.5|**7.5**|
+|14|**J M**|7.5|**7.5**|
+|15|**Steve Gonda**|6.0|**6.0**|
+|16|**Penny Daniels**|6.0|**6.0**|
+
+
+
