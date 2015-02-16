@@ -33,7 +33,11 @@ No coin drop! Machines will be set to free play from 5pm to 11pm.
 ## Finals 
 
 Finals:
-Each week we will award league points based on players finishing results. First place will receive (number of players that week + 3) points. Second receives (number of players that week +1). Third receives (number of players that week), every finish below receives 1 fewer point. Ties take up the number of tied players spots, and split the award.
+Each week we will award league points based on players finishing results. 
+
+* First place will receive 50 points, 2nd place 45. 
+* 3rd score band will recieve 40 - (0.5 * number of players tied for band)
+* lower score bands will recieve the points of the previous band - 1 - (0.5 *number of players tied for band)
 
 Your score for qualifying is the sum of your best 15 weeks.(of the 18). Weeks you don't attend count as 0. 
 
