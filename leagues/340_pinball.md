@@ -21,7 +21,7 @@ Welcome to the Pub 340 2015 pinball league!
 - Pub 340 and East Van Amusements (Operator) are donating over $600 in cash prizes to be paid out to the top 8 at the end of the year.
 - League Standings will be updated after every event and put here.
 - Jon Grieman is the League director.
-- All Sunday events start at 6:00 PM sharp. 
+- All Sunday events start at Noon sharp. 
 - All Friday events start at 7:00 PM sharp.
 
 ##Schedule:
