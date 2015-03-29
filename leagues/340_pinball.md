@@ -30,9 +30,9 @@ Welcome to the Pub 340 2015 pinball league!
 | ---- | ---- | -----
 | Sunday Feb 1 |6:00 PM| 3 strikes
 | Sunday Feb 22 |12:00 PM| 3 strikes 
-| Friday March 27 |7:00| One handed team play 
+| Friday March 27 |7:00| Tommy Vision 
 | Sunday Apr 26 |12:00 PM| 3 strikes 
-| Friday May 29 |7:00| Tommy vision 
+| Friday May 29 |7:00| Split Flipper Team Play 
 | Sunday July 26 |12:00 PM| 3 strikes 
 | Friday Sept 18 |7:00| TBD (something wacky)
 | Sunday Oct 25 |12:00 PM| 3 strikes 
@@ -44,34 +44,43 @@ TBD - but it will not be heavily weighted towards the top 3 players as some stan
 
 ## Current Standings
 
-| Position | Player | Event 1 | Event 2 | Points
-| ------- | ------- | ------- | ------- | ------- 
-|1|**Robert Gagno**|20.0|20.0|**20.0**|
-|2|**Kyle Bee**|14.5|17.0|**17.0**|
-|3|**Jordan Hudson**|17.0|10.5|**17.0**|
-|4|**Scott Jack**|0|15.0|**15.0**|
-|5|**Eden Stamm**|14.5|0|**14.5**|
-|6|**Jody Reilhan**|0|13.5|**13.5**|
-|7|**Dave Mercier**|13.5|0|**13.5**|
-|8|**Shawn Haley**|0|13.5|**13.5**|
-|9|**Mary Mac**|0|12.0|**12.0**|
-|10|**Lindsay Partin**|0|12.0|**12.0**|
-|11|**Brennan Lloyd**|11.5|0|**11.5**|
-|12|**Snickers Wallace**|11.5|0|**11.5**|
-|13|**Larry Ng**|11.5|6.5|**11.5**|
-|14|**Kyle Seller**|9.5|10.5|**10.5**|
-|15|**Larry Glowacki**|9.5|0|**9.5**|
-|16|**Sara Little**|9.5|5.0|**9.5**|
-|17|**Al Smith**|0|8.5|**8.5**|
-|18|**Jon Grieman**|7.5|8.5|**8.5**|
-|19|**Jack Nixon**|0|8.5|**8.5**|
-|20|**J M**|7.5|0|**7.5**|
-|21|**Darryl 340**|7.5|0|**7.5**|
-|22|**Stephen Hardie**|0|6.5|**6.5**|
-|23|**Tom Lorrie**|0|6.5|**6.5**|
-|24|**Steve Gonda**|6.0|0|**6.0**|
-|25|**Penny Daniels**|6.0|0|**6.0**|
-|26|**Chet Moller**|0|5.0|**5.0**|
+| Position | Player | Event 1 | Event 2 | Event 3 | Points
+| ------- | ------- | ------- | ------- | ------- | ------- 
+|1|**Jordan Hudson**|17.0|10.5|17.0|**44.5**|
+|2|**Robert Gagno**|20.0|20.0|0|**40.0**|
+|3|**Kyle Bee**|14.5|17.0|6.5|**38.0**|
+|4|**Al Smith**|0|8.5|20.0|**28.5**|
+|5|**Kyle Seller**|9.5|10.5|8.5|**28.5**|
+|6|**Larry Ng**|11.5|6.5|6.5|**24.5**|
+|7|**Lindsay Partin**|0|12.0|10.5|**22.5**|
+|8|**Jody Reilhan**|0|13.5|8.5|**22.0**|
+|9|**Jon Grieman**|7.5|8.5|5.0|**21.0**|
+|10|**Sara Little**|9.5|5.0|6.5|**21.0**|
+|11|**Scott Jack**|0|15.0|0|**15.0**|
+|12|**Daniel Skolovy**|0|0|15.0|**15.0**|
+|13|**Eden Stamm**|14.5|0|0|**14.5**|
+|14|**Dave Mercier**|13.5|0|0|**13.5**|
+|15|**Shawn Haley**|0|13.5|0|**13.5**|
+|16|**Brad Kerr**|0|0|13.0|**13.0**|
+|17|**Danny Cabral**|0|0|13.0|**13.0**|
+|18|**Joe Santbergen**|0|0|13.0|**13.0**|
+|19|**Nolan Veljacic**|0|0|12.0|**12.0**|
+|20|**Mary Mac**|0|12.0|0|**12.0**|
+|21|**Brennan Lloyd**|11.5|0|0|**11.5**|
+|22|**Snickers Wallace**|11.5|0|0|**11.5**|
+|23|**Chad Bruhaug**|0|0|10.5|**10.5**|
+|24|**Larry Glowacki**|9.5|0|0|**9.5**|
+|25|**Blake Hurdle**|0|0|8.5|**8.5**|
+|26|**Jack Nixon**|0|8.5|0|**8.5**|
+|27|**J M**|7.5|0|0|**7.5**|
+|28|**Darryl 340**|7.5|0|0|**7.5**|
+|29|**Stephen Hardie**|0|6.5|0|**6.5**|
+|30|**Tom Lorrie**|0|6.5|0|**6.5**|
+|31|**Steve Gonda**|6.0|0|0|**6.0**|
+|32|**Penny Daniels**|6.0|0|0|**6.0**|
+|33|**Darcy**|0|0|5.0|**5.0**|
+|34|**Chet Moller**|0|5.0|0|**5.0**|
+|35|**James**|0|0|4.0|**4.0**|
 
 
 
