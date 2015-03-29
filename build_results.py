@@ -68,7 +68,7 @@ for player in players.keys():
 	for week in sorted(players[player].keys()):
 		points.append(players[player][week])
 	points.sort()
-	player_totals[player] = sum(points[MULLIGAN_WEEKS-1:])
+	player_totals[player] = sum(points)
 
 
 # Output table header
