@@ -39,7 +39,7 @@ Each week we will award league points based on players finishing results.
 * 3rd score band will recieve 40 - (0.5 * number of players tied for band)
 * lower score bands will recieve the points of the previous band - 1 - (0.5 *number of players tied for band)
 
-Your score for qualifying is the sum of your best 15 weeks. (of the 17). Weeks you don't attend count as 0. 
+Your score for qualifying is the sum of your best 14 weeks. (of the 17). Weeks you don't attend count as 0. 
 
 The finals will take the place of the last weeks tournament (May 27th) format TBA.
 
