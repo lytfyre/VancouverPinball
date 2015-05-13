@@ -41,7 +41,21 @@ Each week we will award league points based on players finishing results.
 
 Your score for qualifying is the sum of your best 14 weeks. (of the 17). Weeks you don't attend count as 0. 
 
-The finals will take the place of the last weeks tournament (May 27th) format TBA.
+The finals will take the place of the last weeks tournament (May 27th)
+
+Finals Format:
+
+The top 16 players qualify for finals. In the event that a qualified player does not attend, the next highest qualified player will be considered qualified. 
+
+Initial rounds of finals will be 1v1 match play, random table, best of **3 games** matches seeded by qualification rank. (it is advantageous to qualify higher). 
+The higher qualifying player will have choice of position for the first game, with the loser of the preceding game having choice of position for game 2 and 3 (if neccessary).
+
+As prizes extend to 5th place, 5-8 will play out for 5th prize, and 3-4 will play our for 3rd and 4th prizes. 
+
+The final match will rotate tables, with the loser of the previous game having choice of table or position. 
+
+The number of games in the finals match will be _at least_ best of at least **5 games**.
+At the sole discretion of the TD, and based upon feedback from the players and time and progression of the evening, this may be increased to 7 or 9 games - this must be announced prior to the beginning of the final match. 
 
 ## Prizes
 
