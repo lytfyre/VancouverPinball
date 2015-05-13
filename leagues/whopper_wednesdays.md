@@ -52,7 +52,7 @@ The higher qualifying player will have choice of position for the first game, wi
 
 As prizes extend to 5th place, 5-8 will play out for 5th prize, and 3-4 will play our for 3rd and 4th prizes. 
 
-The final match (round 4) will rotate tables, with the loser of the previous game having choice of table or position. 
+The final two player match (round 4) will rotate tables, with the loser of the previous game having choice of table or position. 
 
 The number of games in the finals match will be _at least_ best of at least **5 games**.
 At the sole discretion of the TD, and based upon feedback from the players and time and progression of the evening, this may be increased to 7 or 9 games - this must be announced prior to the beginning of the final match. 
