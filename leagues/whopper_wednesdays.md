@@ -52,10 +52,9 @@ The finals is a single elemination bracket.
 Initial rounds (1-3) of finals will be 1v1 match play, random table, best of **3 games** matches seeded by qualification rank. (it is advantageous to qualify higher). 
 The higher qualifying player will have choice of position for the first game, with the loser of the preceding game having choice of position for game 2 and 3 (if neccessary).
 
-As prizes extend to 5th place, 5-8 will play out for 5th prize, and 3-4 will play our for 3rd and 4th prizes. 
-
 The final two player match (round 4) will rotate tables, with the loser of the previous game having choice of table or position. The final round is **5 games**
 
+As prizes extend to 5th place, 5-8 will play out for 5th prize, and 3-4 will play our for 3rd and 4th prizes. 
 
 ## Prizes
 
