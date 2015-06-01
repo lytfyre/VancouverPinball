@@ -1,7 +1,7 @@
 ---
 layout: league
 title: 340 Pinball League 2015
-ifpa: 1953
+in-progress: true
 facebook-event: https://www.facebook.com/events/1391183377853322
 location: http://pub340.ca/
 ---

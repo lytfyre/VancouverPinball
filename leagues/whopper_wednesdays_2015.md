@@ -2,6 +2,7 @@
 layout: league
 title: Whopper Wednesdays 2015
 ifpa: 1184
+in-progress: false
 facebook-event: https://www.facebook.com/events/916538151697788/
 location: http://donnellygroup.ca/locations/pubs/library-square/
 ---
@@ -11,6 +12,37 @@ location: http://donnellygroup.ca/locations/pubs/library-square/
    <br>
    Weekly Freeplay Pinball Tournaments Held at <a href="http://donnellygroup.ca/locations/pubs/library-square/">Library Square</a>. 
 </p>
+
+## Final Results:
+
+This league season has concluded!
+
+Top 16 results:
+
+| # | Player
+| ------- | ------- 
+| 1  | **Robert Gagno** 
+| 2  | **Sara Little** 
+| 3  | **Mary Mac** 
+| 4  | **Chad Bruhaug** 
+| 5  | **Eden Stamm**
+| 6  | **Brennan Lloyd**
+| 7  | **Sean Lind** 
+| 8  | **Garret Wolf**
+| 9  | **Shawn Haley**
+| 10 | **Blake Hurdle**
+| 11 | **Jon Grieman**
+| 12 | **Kirk Jong**
+| 13 | **Garrett Wolf**
+| 14 | **Lindsay Partin**
+| 15 | **Al Smith**
+| 16 | **Ian Lang**
+
+Top 6 fully plaid out for position
+7+8  eliminated in same round, broken by qualifying standing. 
+9-16 eliminated in same round, broken by qualifying standing.  
+
+## Information
 
 The 2015 Season of Whopper Wednesdays at Library Square.
 
