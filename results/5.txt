@@ -1,0 +1,27 @@
+---
+"date": "2015-05-29",
+"format": "Split Flipper Doubles 4 Strike Eliminaiton",
+"name": "Split Flipper"
+---
+1,Joe Santbergen 
+1,Kyle Seller
+2,Jon Grieman 
+2,Larry Ng
+3,Al Smith 
+3,Jody Reilhan
+4,Arlin Kalenchuk 
+4,Jordan Hudson
+5,Kyle Bee 
+5,Sean Parton
+5,Chet Moller 
+5,Matt Ewan
+6,Fenna 
+6,Sara Little
+6,Ed Reitmeier 
+6,Tom Lorrie
+7,Ian Torn 
+7,Robert Gagno
+7,Brad Kerr 
+7,Spencer Parton
+8,Alex Mackay 
+8,Blake Hurdle

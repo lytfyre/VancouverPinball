@@ -1,18 +1,23 @@
-1 Al Smith
-2 Jordan Hudson
-3 Daniel Skolovy
-4 Brad Kerr
-4 Joe Santbergen
-4 Danny Cabral
-5 Nolan Veljacic
-6 Chad Bruhaug
-6 Lindsay Partin
-7 Kyle Seller
-7 Blake Hurdle
-7 Jody Reilhan
-9 Sara Little
-9 Kyle Bee
-9 Larry Ng
-11 Jon Grieman
-11 Darcy
-13 James
+---
+"date": "2015-03-27",
+"format": "Tommy Vision",
+"name": "Tommy Vision"
+---
+1,Al Smith
+2,Jordan Hudson
+3,Daniel Skolovy
+4,Brad Kerr
+4,Joe Santbergen
+4,Danny Cabral
+5,Nolan Veljacic
+6,Chad Bruhaug
+6,Lindsay Partin
+7,Kyle Seller
+7,Blake Hurdle
+7,Jody Reilhan
+9,Sara Little
+9,Kyle Bee
+9,Larry Ng
+11,Jon Grieman
+11,Darcy
+13,James

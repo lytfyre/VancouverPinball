@@ -1,17 +1,22 @@
-1 Robert Gagno
-2 Kyle Bee
-3 Scott Jack
-4 Jody Reilhan
-4 Shawn Haley
-6 Lindsay Partin
-6 Mary Mac
-8 Jordan Hudson
-8 Kyle Seller
-10 Jack Nixon
-10 Jon Grieman
-10 Al Smith
-13 Larry Ng
-13 Tom Lorrie
-13 Stephen Hardie
-16 Chet Moller
-16 Sara Little
+---
+"date":"2015-02-22",
+"format": "3 Strike Eliminaiton",
+"name": "2"
+---
+1,Robert Gagno
+2,Kyle Bee
+3,Scott Jack
+4,Jody Reilhan
+4,Shawn Haley
+6,Lindsay Partin
+6,Mary Mac
+8,Jordan Hudson
+8,Kyle Seller
+10,Jack Nixon
+10,Jon Grieman
+10,Al Smith
+13,Larry Ng
+13,Tom Lorrie
+13,Stephen Hardie
+16,Chet Moller
+16,Sara Little

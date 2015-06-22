@@ -1,16 +1,21 @@
-1 Robert Gagno
-2 Jordan Hudson
-3 Eden Stamm
-3 Kyle Bee
-5 Dave Mercier
-6 Snickers Wallace
-6 Larry Ng
-6 Brennan Lloyd
-9 Sara Little
-9 Kyle Seller
-9 Larry Glowacki
-12 Jon Grieman
-12 Darryl 340
-12 J M
-15 Penny Daniels
-15 Steve Gonda
+---
+"date":"2015-02-01",
+"format": "3 Strike Eliminaiton",
+"name": "1"
+---
+1,Robert Gagno
+2,Jordan Hudson
+3,Eden Stamm
+3,Kyle Bee
+5,Dave Mercier
+6,Snickers Wallace
+6,Larry Ng
+6,Brennan Lloyd
+9,Sara Little
+9,Kyle Seller
+9,Larry Glowacki
+12,Jon Grieman
+12,Darryl 340
+12,J M
+15,Penny Daniels
+15,Steve Gonda
