@@ -42,7 +42,6 @@ START TIMES:
 
 ##FORMATS and Tournament Director
 
-- Friday July 31 - Kyle S 4/5 strike Drills 
 - Friday Aug 7 - Sara 4 strike Team Play
 - Thurs Aug 13 - Rob M 3 Strike (IFPA)
 - Thurs Aug 20 - JPR VRPA format (IFPA)

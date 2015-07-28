@@ -1,5 +1,10 @@
 This repo is for the website pincouver.com
 
+# Building/Running
+
+bundle exec jekyll build --watch
+bundle exec jekyll serve
+
 Readme for template:
 
 # Hyde
