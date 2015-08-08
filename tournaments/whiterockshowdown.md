@@ -5,13 +5,12 @@ title: White Rock Pinball Showdown
 
 ## Pinball Tournament in White Rock
 
-Eden is hosting a tournament on his collection. 
-
-See the [Facebook Event](https://www.facebook.com/events/1620312734891807/) for details!
-
 Sunday August 23rd at 3:00 PM - Doors open at 2PM 
 1520 Blackwood Street, White Rock, BC.
 
+Hosted by Eden Stamm
+
+See the [Facebook Event](https://www.facebook.com/events/1620312734891807/) for details!
 
 ## Tournament Details
 
