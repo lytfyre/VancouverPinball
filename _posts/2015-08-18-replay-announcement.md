@@ -12,5 +12,7 @@ No experience is neccessary - come out for some free pinball, cheap wings, and g
 
 See the [tournament page]({{site.url}}/leagues/replay2015/) for more details on the tournament format!
 
+We're on [Facebook](https://www.facebook.com/events/1698227503743219/) and [Meetup](http://www.meetup.com/Replay-Pinball-League/) for questions and discussion, and if you want to RSVP. 
+
 To prepare for the league, August 26th and Sept. 2nd will be freeplay evenings at Lamplighter.
 

@@ -20,7 +20,7 @@ The 2015 Season of the Replay Pinball League.
 COMPLETELY FREE PINBALL TOURNAMENTS.
 All machines on free-play all night. 
 
-See the [Facebook Event Page](TBC...) for questions and discussion. 
+See the [Facebook Event Page](https://www.facebook.com/events/1698227503743219/) or the [Meetup Page](http://www.meetup.com/Replay-Pinball-League/) for questions and discussion. 
 
 We use [Matchplay](https://matchplay.events//) to run the tournament. 
 You can see current and upcoming matches during the event by finding this weeks event on [MatchPlay Live](https://matchplay.events/live)
