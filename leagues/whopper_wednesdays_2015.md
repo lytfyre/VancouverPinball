@@ -2,7 +2,7 @@
 layout: league
 title: Whopper Wednesdays 2015
 ifpa: 1184
-in-progress: false
+active: false
 facebook-event: https://www.facebook.com/events/916538151697788/
 location: http://donnellygroup.ca/locations/pubs/library-square/
 ---

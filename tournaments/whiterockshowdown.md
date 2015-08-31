@@ -1,6 +1,7 @@
 ---
 layout: tournament
 title: White Rock Pinball Showdown
+active: true
 ---
 
 ## Pinball Tournament in White Rock

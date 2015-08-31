@@ -6,6 +6,12 @@
     </div>
 
     <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+        <a href="http://twitter.com/pincouver">@Pincouver </a> on Twitter
+      </li>
+      <br>
+
+
       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
         <a href="/">Home</a>
       </li>
@@ -32,31 +38,35 @@
       </li>
 
       <br>
-      <li>Leagues</li>
+      <li> Current Leagues</li>
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "league" %}
-            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              <a href="{{ node.url }}">{{ node.title }}</a>
-            </li>
+            {% if node.active %}
+              <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+                <a href="{{ node.url }}">{{ node.title }}</a>
+              </li>
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endfor %}
 
       <br>
-      <li>Tournaments</li>
+      <li>Current Tournaments</li>
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "tournament" %}
-            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              <a href="{{ node.url }}">{{ node.title }}</a>
-            </li>
+            {% if node.active %}
+              <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+                <a href="{{ node.url }}">{{ node.title }}</a>
+              </li>
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endfor %}
       <br>
 
-      <li class="sidebar-nav-item"></li>
+      
       
       <li class="sidebar-nav-item"><sub>Built with <a href="https://github.com/poole/hyde">Hyde</a> and <a href="http://jekyllrb.com/">Jekyll</a></sub></li>
     </ul>

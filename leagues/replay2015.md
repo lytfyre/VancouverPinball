@@ -1,7 +1,7 @@
 ---
 layout: league
 title: Replay 2015
-in-progress: true
+active: true
 location: http://donnellygroup.ca/locations/pubs/library-square/
 ---
 
