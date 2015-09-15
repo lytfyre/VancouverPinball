@@ -59,6 +59,49 @@ Details of the final playoff format will be announced closer to the date.
 TBA!
 
 
-## Weekly Standings
+## Current Weekly Standings
 
-Here Once the season begins!
+| Position | Player | Week 1 | Total
+| ----| ----| -----| -----
+|	1	|	Robert Gagno	|	26	|	26
+|	2	|	Sara Little	|	24	|	24
+|	3	|	Andreas Pettersson	|	22	|	22
+|	3	|	Jon Grieman	|	22	|	22
+|	3	|	Raymond Chau	|	22	|	22
+|	6	|	Blake Hurdle	|	20	|	20
+|	6	|	Jody Reilhan	|	20	|	20
+|	6	|	Matt Ewan	|	20	|	20
+|	6	|	Scott Jack	|	20	|	20
+|	10	|	Derek Houg	|	19	|	19
+|	10	|	Shawn Haley	|	19	|	19
+|	12	|	Brad Kerr	|	18	|	18
+|	12	|	Brennan Lloyd	|	18	|	18
+|	12	|	Chris Badyk	|	18	|	18
+|	12	|	Maurizio Gagno	|	18	|	18
+|	12	|	Stephen Hardie	|	18	|	18
+|	17	|	Garrett Wolf	|	16	|	16
+|	17	|	Kirk Jong	|	16	|	16
+|	17	|	Kyle Bee	|	16	|	16
+|	17	|	Rob Moller	|	16	|	16
+|	17	|	Will Luton	|	16	|	16
+|	22	|	Al Smith	|	14	|	14
+|	22	|	Bonnie Bedford	|	14	|	14
+|	22	|	Kathy Gagno	|	14	|	14
+|	22	|	Lindsay Partin	|	14	|	14
+|	26	|	Jess Halley	|	13	|	13
+|	26	|	Lisa Gagno	|	13	|	13
+|	26	|	Sean O'hara	|	13	|	13
+|	26	|	Taylor Gardiner	|	13	|	13
+|	30	|	Christian Reilhan	|	12	|	12
+|	30	|	Mary Mac	|	12	|	12
+|	32	|	Bob Symington	|	11	|	11
+|	32	|	Elise Vredenbregt	|	11	|	11
+|	34	|	Ian Lang	|	10	|	10
+|	34	|	Kyle Malong	|	10	|	10
+|	36	|	Ben Bondy	|	9	|	9
+|	36	|	Corey Dale	|	9	|	9
+|	38	|	Alyson White	|	8	|	8
+|	39	|	Jordan Hudson	|	7	|	7
+|	40	|	Andrew Lum	|	5	|	5
+|	40	|	Sean Lind	|	5	|	5
+|	42	|	Tessa Russell	|	3	|	3
