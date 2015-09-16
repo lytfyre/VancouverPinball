@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Full Throttle Launch Party @ Landyachtz
+title: Full Throttle Launch Party
 permalink: FullThrottleLaunch
 ---
 
