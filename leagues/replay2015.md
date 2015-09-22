@@ -61,47 +61,67 @@ TBA!
 
 ## Current Weekly Standings
 
-| Position | Player | Week 1 | Total
-| ----| ----| -----| -----
-|	1	|	Robert Gagno	|	26	|	26
-|	2	|	Sara Little	|	24	|	24
-|	3	|	Andreas Pettersson	|	22	|	22
-|	3	|	Jon Grieman	|	22	|	22
-|	3	|	Raymond Chau	|	22	|	22
-|	6	|	Blake Hurdle	|	20	|	20
-|	6	|	Jody Reilhan	|	20	|	20
-|	6	|	Matt Ewan	|	20	|	20
-|	6	|	Scott Jack	|	20	|	20
-|	10	|	Derek Houg	|	19	|	19
-|	10	|	Shawn Haley	|	19	|	19
-|	12	|	Brad Kerr	|	18	|	18
-|	12	|	Brennan Lloyd	|	18	|	18
-|	12	|	Chris Badyk	|	18	|	18
-|	12	|	Maurizio Gagno	|	18	|	18
-|	12	|	Stephen Hardie	|	18	|	18
-|	17	|	Garrett Wolf	|	16	|	16
-|	17	|	Kirk Jong	|	16	|	16
-|	17	|	Kyle Bee	|	16	|	16
-|	17	|	Rob Moller	|	16	|	16
-|	17	|	Will Luton	|	16	|	16
-|	22	|	Al Smith	|	14	|	14
-|	22	|	Bonnie Bedford	|	14	|	14
-|	22	|	Kathy Gagno	|	14	|	14
-|	22	|	Lindsay Partin	|	14	|	14
-|	26	|	Jess Halley	|	13	|	13
-|	26	|	Lisa Gagno	|	13	|	13
-|	26	|	Sean O'hara	|	13	|	13
-|	26	|	Taylor Gardiner	|	13	|	13
-|	30	|	Christian Reilhan	|	12	|	12
-|	30	|	Mary Mac	|	12	|	12
-|	32	|	Bob Symington	|	11	|	11
-|	32	|	Elise Vredenbregt	|	11	|	11
-|	34	|	Ian Lang	|	10	|	10
-|	34	|	Kyle Malong	|	10	|	10
-|	36	|	Ben Bondy	|	9	|	9
-|	36	|	Corey Dale	|	9	|	9
-|	38	|	Alyson White	|	8	|	8
-|	39	|	Jordan Hudson	|	7	|	7
-|	40	|	Andrew Lum	|	5	|	5
-|	40	|	Sean Lind	|	5	|	5
-|	42	|	Tessa Russell	|	3	|	3
+| Position | Points | Player | Week1 | Week2 |
+| -------| -------| -------| -------| -------
+| 1 | 50 | **Robert Gagno** | 26 | 24 |
+| 2 | 46 | **Andreas Pettersson** | 22 | 24 |
+| 3 | 46 | **Sara Little** | 24 | 22 |
+| 4 | 44 | **Raymond Chau** | 22 | 22 |
+| 5 | 42 | **Blake Hurdle** | 20 | 22 |
+| 6 | 42 | **Jon Grieman** | 22 | 20 |
+| 7 | 41 | **Shawn Haley** | 19 | 22 |
+| 8 | 38 | **Rob Moller** | 16 | 22 |
+| 9 | 38 | **Jody Reilhan** | 20 | 18 |
+| 10 | 36 | **Matt Ewan** | 20 | 16 |
+| 11 | 34 | **Kirk Jong** | 16 | 18 |
+| 12 | 34 | **Scott Jack** | 20 | 14 |
+| 13 | 34 | **Garrett Wolf** | 16 | 18 |
+| 14 | 34 | **Bonnie Bedford** | 14 | 20 |
+| 15 | 32 | **Mary Mac** | 12 | 20 |
+| 16 | 29 | **Derek Houg** | 19 | 10 |
+| 17 | 29 | **Jess Halley** | 13 | 16 |
+| 18 | 28 | **Will Luton** | 16 | 12 |
+| 19 | 28 | **Kyle Bee** | 16 | 12 |
+| 20 | 27 | **Brennan Lloyd** | 18 | 9 |
+| 21 | 27 | **Lindsay Partin** | 14 | 13 |
+| 22 | 24 | **Christian Reilhan** | 12 | 12 |
+| 23 | 24 | **Stephen Hardie** | 18 | 6 |
+| 24 | 23 | **Ben Bondy** | 9 | 14 |
+| 25 | 22 | **Sean O'hara** | 13 | 9 |
+| 26 | 22 | **Alyson White** | 8 | 14 |
+| 27 | 21 | **Jordan Hudson** | 7 | 14 |
+| 28 | 20 | **Darryl Scholten** | 0 | 20 |
+| 29 | 20 | **Ian Lang** | 10 | 10 |
+| 30 | 20 | **Eden Stamm** | 0 | 20 |
+| 31 | 19 | **Sean Lind** | 5 | 14 |
+| 32 | 18 | **Al Smith** | 14 | 4 |
+| 33 | 18 | **Chris Badyk** | 18 | 0 |
+| 34 | 18 | **Maurizio Gagno** | 18 | 0 |
+| 35 | 18 | **Brad Kerr** | 18 | 0 |
+| 36 | 15 | **Angelo Muro** | 0 | 15 |
+| 37 | 15 | **Gabriel Matias** | 0 | 15 |
+| 38 | 14 | **Kathy Gagno** | 14 | 0 |
+| 39 | 14 | **Jaret Bradley** | 0 | 14 |
+| 40 | 13 | **Taylor Gardiner** | 13 | 0 |
+| 41 | 13 | **Lisa Gagno** | 13 | 0 |
+| 42 | 13 | **Matt Read** | 0 | 13 |
+| 43 | 11 | **Bob Symington** | 11 | 0 |
+| 44 | 11 | **Bo W** | 0 | 11 |
+| 45 | 11 | **Elise Vredenbregt** | 11 | 0 |
+| 46 | 10 | **Kyle Malong** | 10 | 0 |
+| 47 | 10 | **Mike Horkoff** | 0 | 10 |
+| 48 | 9 | **Corey Dale** | 9 | 0 |
+| 49 | 9 | **Sandrine Extier** | 0 | 9 |
+| 50 | 8 | **nolan king** | 0 | 8 |
+| 51 | 8 | **Scott Parsons** | 0 | 8 |
+| 52 | 7 | **Esteban Astudillo** | 0 | 7 |
+| 53 | 7 | **Joe Santbergen** | 0 | 7 |
+| 54 | 6 | **Chad Bruhaug** | 0 | 6 |
+| 55 | 6 | **Dan Skolovy** | 0 | 6 |
+| 56 | 5 | **Sterling Nelson** | 0 | 5 |
+| 57 | 5 | **Andrew Lum** | 5 | 0 |
+| 58 | 4 | **Damon Holowchak** | 0 | 4 |
+| 59 | 3 | **Tessa Russell** | 3 | 0 |
+| 60 | 3 | **Sebastien Carette** | 0 | 3 |
+| 61 | 2 | **Anton Glavas** | 0 | 2 |
+| 62 | 2 | **Steve Cousins** | 0 | 2 |
