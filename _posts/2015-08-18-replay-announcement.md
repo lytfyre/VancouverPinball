@@ -16,3 +16,4 @@ We're on [Facebook](https://www.facebook.com/events/1698227503743219/) and [Meet
 
 To prepare for the league, August 26th and Sept. 2nd will be freeplay evenings at Lamplighter.
 
+![Lamplighter]({{site.url}}/assets/lamplighterpinball.jpg)
