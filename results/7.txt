@@ -1,0 +1,15 @@
+---
+"date":"2015-09-18",
+"format": "Split Flipper Doubles 4 Strike Eliminaiton",
+"name": "Split Flipper"
+---
+1,Jody Reilhan
+1,Larry Ng
+2,Jordan Hudson
+2,Robert Gagno
+3,Joe Santbergen
+3,Rob Moller
+4,Al Smith
+4,Kyle Bee
+5,Don McEnroe
+5,Jen Andrieshyn

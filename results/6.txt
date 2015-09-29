@@ -1,0 +1,17 @@
+---
+"date":"2015-07-26",
+"format": "3 Strike Eliminaiton",
+"name": "4"
+---
+1,Robert Gagno
+2,Kyle Bee
+3,Jody Reilhan
+3,Sara Little
+5,Mary Mac
+6,Larry Ng
+7,Chet Moller
+7,Stephen Hardie
+9,Chad Wren
+9,Jon Grieman
+11,Kyle Seller
+11,Matt Ewan
