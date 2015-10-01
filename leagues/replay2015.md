@@ -61,77 +61,77 @@ TBA!
 
 ## Current Weekly Standings
 
-| Position | Points | Player | Week1 | Week2 | Week3 | Week4 |
-| -------| -------| -------| -------| -------| -------| -------
-| 1 | 96 | **Robert Gagno** | 26 | 24 | 24 | 22 |
-| 2 | 93 | **Shawn Haley** | 19 | 22 | 26 | 26 |
-| 3 | 80 | **Sara Little** | 24 | 22 | 14 | 20 |
-| 4 | 76 | **Rob Moller** | 16 | 22 | 20 | 18 |
-| 5 | 74 | **Blake Hurdle** | 20 | 22 | 16 | 16 |
-| 6 | 73 | **Jon Grieman** | 22 | 20 | 9 | 22 |
-| 7 | 70 | **Matt Ewan** | 20 | 16 | 18 | 16 |
-| 8 | 66 | **Bonnie Bedford** | 14 | 20 | 18 | 14 |
-| 9 | 64 | **Garrett Wolf** | 16 | 18 | 14 | 16 |
-| 10 | 64 | **Mary Mac** | 12 | 20 | 16 | 16 |
-| 11 | 61 | **Lindsay Partin** | 14 | 13 | 14 | 20 |
-| 12 | 59 | **Raymond Chau** | 22 | 22 | 0 | 15 |
-| 13 | 58 | **Eden Stamm** | 0 | 20 | 20 | 18 |
-| 14 | 57 | **Scott Jack** | 20 | 14 | 9 | 14 |
-| 15 | 56 | **Jody Reilhan** | 20 | 18 | 0 | 18 |
-| 16 | 52 | **Kirk Jong** | 16 | 18 | 18 | 0 |
-| 17 | 48 | **Mike Horkoff** | 0 | 10 | 18 | 20 |
-| 18 | 46 | **Andreas Pettersson** | 22 | 24 | 0 | 0 |
-| 19 | 45 | **Jess Halley** | 13 | 16 | 16 | 0 |
-| 20 | 45 | **Matt Read** | 0 | 13 | 14 | 18 |
-| 21 | 42 | **Stephen Hardie** | 18 | 6 | 18 | 0 |
-| 22 | 42 | **Kyle Bee** | 16 | 12 | 14 | 0 |
-| 23 | 40 | **Larry Ng** | 0 | 0 | 22 | 18 |
-| 24 | 38 | **Al Smith** | 14 | 4 | 20 | 0 |
-| 25 | 35 | **Jaret Bradley** | 0 | 14 | 10 | 11 |
-| 26 | 34 | **Michael Saavedra** | 0 | 0 | 20 | 14 |
-| 27 | 34 | **Angelo Muro** | 0 | 15 | 0 | 19 |
-| 28 | 33 | **Ian Lang** | 10 | 10 | 13 | 0 |
-| 29 | 33 | **Sandrine Extier** | 0 | 9 | 13 | 11 |
-| 30 | 32 | **Alyson White** | 8 | 14 | 10 | 0 |
-| 31 | 31 | **Maurizio Gagno** | 18 | 0 | 0 | 13 |
-| 32 | 31 | **Jordan Hudson** | 7 | 14 | 10 | 0 |
-| 33 | 29 | **Derek Houg** | 19 | 10 | 0 | 0 |
-| 34 | 28 | **Chris Badyk** | 18 | 0 | 0 | 10 |
-| 35 | 28 | **Will Luton** | 16 | 12 | 0 | 0 |
-| 36 | 28 | **Kathy Gagno** | 14 | 0 | 0 | 14 |
-| 37 | 27 | **Brennan Lloyd** | 18 | 9 | 0 | 0 |
-| 38 | 26 | **Nick Wadden** | 0 | 0 | 18 | 8 |
-| 39 | 24 | **Christian Reilhan** | 12 | 12 | 0 | 0 |
-| 40 | 23 | **Ben Bondy** | 9 | 14 | 0 | 0 |
-| 41 | 22 | **Sean O'hara** | 13 | 9 | 0 | 0 |
-| 42 | 20 | **Darryl Scholten** | 0 | 20 | 0 | 0 |
-| 43 | 19 | **Sean Lind** | 5 | 14 | 0 | 0 |
-| 44 | 18 | **Dave Grant** | 0 | 0 | 0 | 18 |
-| 45 | 18 | **Brad Kerr** | 18 | 0 | 0 | 0 |
-| 46 | 15 | **Gabriel Matias** | 0 | 15 | 0 | 0 |
-| 47 | 14 | **Tony Sousa** | 0 | 0 | 4 | 10 |
-| 48 | 13 | **Taylor Gardiner** | 13 | 0 | 0 | 0 |
-| 49 | 13 | **Lisa Gagno** | 13 | 0 | 0 | 0 |
-| 50 | 11 | **Bob Symington** | 11 | 0 | 0 | 0 |
-| 51 | 11 | **Bo W** | 0 | 11 | 0 | 0 |
-| 52 | 11 | **Sebastien Carette** | 0 | 3 | 8 | 0 |
-| 53 | 11 | **Elise Vredenbregt** | 11 | 0 | 0 | 0 |
-| 54 | 10 | **Kyle Malong** | 10 | 0 | 0 | 0 |
-| 55 | 9 | **Corey Dale** | 9 | 0 | 0 | 0 |
-| 56 | 8 | **nolan king** | 0 | 8 | 0 | 0 |
-| 57 | 8 | **Scott Parsons** | 0 | 8 | 0 | 0 |
-| 58 | 7 | **Puya Turkiyan** | 0 | 0 | 0 | 7 |
-| 59 | 7 | **Esteban Astudillo** | 0 | 7 | 0 | 0 |
-| 60 | 7 | **Joe Santbergen** | 0 | 7 | 0 | 0 |
-| 61 | 6 | **Chad Bruhaug** | 0 | 6 | 0 | 0 |
-| 62 | 6 | **Lanei Lee** | 0 | 0 | 0 | 6 |
-| 63 | 6 | **Dan Skolovy** | 0 | 6 | 0 | 0 |
-| 64 | 6 | **Okafiemhin Lewis** | 0 | 0 | 0 | 6 |
-| 65 | 5 | **Sterling Nelson** | 0 | 5 | 0 | 0 |
-| 66 | 5 | **Andrew Lum** | 5 | 0 | 0 | 0 |
-| 67 | 4 | **Damon Holowchak** | 0 | 4 | 0 | 0 |
-| 68 | 3 | **Tessa Russell** | 3 | 0 | 0 | 0 |
-| 69 | 2 | **Anton Glavas** | 0 | 2 | 0 | 0 |
-| 70 | 2 | **Kevin Haluk** | 0 | 0 | 0 | 2 |
-| 71 | 2 | **Steve Cousins** | 0 | 2 | 0 | 0 |
+| Position | Raw Points | Qualifying Points | Player | Week 1 | Week 2 | Week 3| Week 4 |
+| -------| -------| -------| -------| -------| -------| -------| -------
+| 1 | 93 | 52 | **Shawn Haley** | 19 | ~~22~~ | 26 | 26 |
+| 2 | 96 | 50 | **Robert Gagno** | 26 | 24 | 24 | 22 |
+| 3 | 46 | 46 | **Andreas Pettersson** | 22 | 24 | 0 | 0 |
+| 4 | 80 | 46 | **Sara Little** | 24 | 22 | 14 | 20 |
+| 5 | 59 | 44 | **Raymond Chau** | 22 | 22 | 0 | 15 |
+| 6 | 73 | 44 | **Jon Grieman** | 22 | 20 | 9 | 22 |
+| 7 | 76 | 42 | **Rob Moller** | 16 | 22 | 20 | 18 |
+| 8 | 74 | 42 | **Blake Hurdle** | 20 | 22 | 16 | 16 |
+| 9 | 58 | 40 | **Eden Stamm** | 0 | 20 | 20 | 18 |
+| 10 | 40 | 40 | **Larry Ng** | 0 | 0 | 22 | 18 |
+| 11 | 70 | 38 | **Matt Ewan** | 20 | 16 | 18 | 16 |
+| 12 | 48 | 38 | **Mike Horkoff** | 0 | 10 | 18 | 20 |
+| 13 | 56 | 38 | **Jody Reilhan** | 20 | 18 | 0 | 18 |
+| 14 | 66 | 38 | **Bonnie Bedford** | 14 | 20 | 18 | 14 |
+| 15 | 52 | 36 | **Kirk Jong** | 16 | 18 | 18 | 0 |
+| 16 | 42 | 36 | **Stephen Hardie** | 18 | 6 | 18 | 0 |
+| 17 | 64 | 36 | **Mary Mac** | 12 | 20 | 16 | 16 |
+| 18 | 34 | 34 | **Michael Saavedra** | 0 | 0 | 20 | 14 |
+| 19 | 38 | 34 | **Al Smith** | 14 | 4 | 20 | 0 |
+| 20 | 57 | 34 | **Scott Jack** | 20 | 14 | 9 | 14 |
+| 21 | 64 | 34 | **Garrett Wolf** | 16 | 18 | 14 | 16 |
+| 22 | 34 | 34 | **Angelo Muro** | 0 | 15 | 0 | 19 |
+| 23 | 61 | 34 | **Lindsay Partin** | 14 | 13 | 14 | 20 |
+| 24 | 45 | 32 | **Jess Halley** | 13 | 16 | 16 | 0 |
+| 25 | 45 | 32 | **Matt Read** | 0 | 13 | 14 | 18 |
+| 26 | 31 | 31 | **Maurizio Gagno** | 18 | 0 | 0 | 13 |
+| 27 | 42 | 30 | **Kyle Bee** | 16 | 12 | 14 | 0 |
+| 28 | 29 | 29 | **Derek Houg** | 19 | 10 | 0 | 0 |
+| 29 | 28 | 28 | **Chris Badyk** | 18 | 0 | 0 | 10 |
+| 30 | 28 | 28 | **Will Luton** | 16 | 12 | 0 | 0 |
+| 31 | 28 | 28 | **Kathy Gagno** | 14 | 0 | 0 | 14 |
+| 32 | 27 | 27 | **Brennan Lloyd** | 18 | 9 | 0 | 0 |
+| 33 | 26 | 26 | **Nick Wadden** | 0 | 0 | 18 | 8 |
+| 34 | 35 | 25 | **Jaret Bradley** | 0 | 14 | 10 | 11 |
+| 35 | 24 | 24 | **Christian Reilhan** | 12 | 12 | 0 | 0 |
+| 36 | 32 | 24 | **Alyson White** | 8 | 14 | 10 | 0 |
+| 37 | 33 | 24 | **Sandrine Extier** | 0 | 9 | 13 | 11 |
+| 38 | 31 | 24 | **Jordan Hudson** | 7 | 14 | 10 | 0 |
+| 39 | 33 | 23 | **Ian Lang** | 10 | 10 | 13 | 0 |
+| 40 | 23 | 23 | **Ben Bondy** | 9 | 14 | 0 | 0 |
+| 41 | 22 | 22 | **Sean O'hara** | 13 | 9 | 0 | 0 |
+| 42 | 20 | 20 | **Darryl Scholten** | 0 | 20 | 0 | 0 |
+| 43 | 19 | 19 | **Sean Lind** | 5 | 14 | 0 | 0 |
+| 44 | 18 | 18 | **Dave Grant** | 0 | 0 | 0 | 18 |
+| 45 | 18 | 18 | **Brad Kerr** | 18 | 0 | 0 | 0 |
+| 46 | 15 | 15 | **Gabriel Matias** | 0 | 15 | 0 | 0 |
+| 47 | 14 | 14 | **Tony Sousa** | 0 | 0 | 4 | 10 |
+| 48 | 13 | 13 | **Taylor Gardiner** | 13 | 0 | 0 | 0 |
+| 49 | 13 | 13 | **Lisa Gagno** | 13 | 0 | 0 | 0 |
+| 50 | 11 | 11 | **Bob Symington** | 11 | 0 | 0 | 0 |
+| 51 | 11 | 11 | **Bo W** | 0 | 11 | 0 | 0 |
+| 52 | 11 | 11 | **Sebastien Carette** | 0 | 3 | 8 | 0 |
+| 53 | 11 | 11 | **Elise Vredenbregt** | 11 | 0 | 0 | 0 |
+| 54 | 10 | 10 | **Kyle Malong** | 10 | 0 | 0 | 0 |
+| 55 | 9 | 9 | **Corey Dale** | 9 | 0 | 0 | 0 |
+| 56 | 8 | 8 | **nolan king** | 0 | 8 | 0 | 0 |
+| 57 | 8 | 8 | **Scott Parsons** | 0 | 8 | 0 | 0 |
+| 58 | 7 | 7 | **Puya Turkiyan** | 0 | 0 | 0 | 7 |
+| 59 | 7 | 7 | **Esteban Astudillo** | 0 | 7 | 0 | 0 |
+| 60 | 7 | 7 | **Joe Santbergen** | 0 | 7 | 0 | 0 |
+| 61 | 6 | 6 | **Chad Bruhaug** | 0 | 6 | 0 | 0 |
+| 62 | 6 | 6 | **Lanei Lee** | 0 | 0 | 0 | 6 |
+| 63 | 6 | 6 | **Dan Skolovy** | 0 | 6 | 0 | 0 |
+| 64 | 6 | 6 | **Okafiemhin Lewis** | 0 | 0 | 0 | 6 |
+| 65 | 5 | 5 | **Sterling Nelson** | 0 | 5 | 0 | 0 |
+| 66 | 5 | 5 | **Andrew Lum** | 5 | 0 | 0 | 0 |
+| 67 | 4 | 4 | **Damon Holowchak** | 0 | 4 | 0 | 0 |
+| 68 | 3 | 3 | **Tessa Russell** | 3 | 0 | 0 | 0 |
+| 69 | 2 | 2 | **Anton Glavas** | 0 | 2 | 0 | 0 |
+| 70 | 2 | 2 | **Kevin Haluk** | 0 | 0 | 0 | 2 |
+| 71 | 2 | 2 | **Steve Cousins** | 0 | 2 | 0 | 0 |
 
