@@ -63,7 +63,7 @@ TBA!
 
 | Position | Raw Points | Qualifying Points | Player | Week 1 | Week 2 | Week 3| Week 4 |
 | -------| -------| -------| -------| -------| -------| -------| -------
-| 1 | 93 | 52 | **Shawn Haley** | 19 | ~~22~~ | 26 | 26 |
+| 1 | 93 | 52 | **Shawn Haley** | 19 | 22 | 26 | 26 |
 | 2 | 96 | 50 | **Robert Gagno** | 26 | 24 | 24 | 22 |
 | 3 | 46 | 46 | **Andreas Pettersson** | 22 | 24 | 0 | 0 |
 | 4 | 80 | 46 | **Sara Little** | 24 | 22 | 14 | 20 |
