@@ -49,9 +49,37 @@ IFPA WPPR points will be awarded for your performance across the entire season.
 
 Finals Format:
 
-The top 16 players qualify for finals. In the event that a qualified player does not attend, the next highest qualified player will be considered qualified. 
+The **top 16** players qualify for finals. In the event that a qualified player does not attend, the next highest qualified player will be considered qualified. 
+
+The top 20: 
+
+| Rank | Qualifying Points | Player |
+| 1 | 269 | **Robert Gagno** | 
+| 2 | 247 | **Shawn Haley** | 
+| 3 | 212 | **Sara Little** | 
+| 4 | 209 | **Jody Reilhan** | 
+| 5 | 208 | **Blake Hurdle** | 
+| 6 | 204 | **Andreas Pettersson** | 
+| 7 | 203 | **Mary Mac** | 
+| 8 | 194 | **Rob Moller** | 
+| 9 | 190 | **Jon Grieman** | 
+| 10 | 188 | **Matt Ewan** | 
+| 11 | 187 | **Eden Stamm** | 
+| 12 | 183 | **Michael Saavedra** | 
+| 13 | 179 | **Mike Horkoff** | 
+| 14 | 174 | **Lindsay Partin** | 
+| 15 | 154 | **Matt Read** | 
+| 16 | 153 | **Scott Jack** | 
+|    |     | **-PLAYOFF CUT LINE-** | 
+| 17 | 152 | **Kirk Jong** | 
+| 18 | 150 | **Larry Ng** | 
+| 19 | 146 | **Sandrine Extier** | 
+| 20 | 120 | **Chad Wren** | 
 
 Finals will take place Dec. 9th, starting at 7PM. 
+
+Players will play in rounds of 4 player matches, initial seeding by league performance. Each round will eliminate 2 players from each group. 
+The number of games each round will increase as we approach the final winners. Scoring per game will be 4/2/1/0
 
 ## Prizes
 
