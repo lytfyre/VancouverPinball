@@ -37,10 +37,18 @@ Welcome to the Pub 340 2015 pinball league!
 | Friday Sept 18 |7:00| Split Flipper Team Play 
 | Sunday Oct 25 |12:00 PM| 3 strikes 
 | Sunday Nov 29 |12:00 PM| 3 strikes 
-| Sunday Dec 13 |12:00 PM| Finals - Reverse bracket top 8
 
 ## LEAGUE FINALS PRIZE POOL BREAKDOWN:
-TBD - but it will not be heavily weighted towards the top 3 players as some standard breakdowns seen in pinball tournaments. Money will be spread out more between all players of the top 8.
+
+Total pool: $625
+
+|1st| $125|
+|2nd| $100|
+|3rd| $90|
+|4th| $80|
+|5th| $70|
+|6th| $60|
+|7th-8th| $50|
 
 ## Current Standings
 
