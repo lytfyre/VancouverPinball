@@ -11,7 +11,6 @@ Events will rotate between Pub 340 and Landyachtz all year long! This a public l
 
 * League director: Rob Moller.
 * IFPA submissions: Jody Reilhan.
-* Tech: Kyle Seller.
 
 [Facebook Page](https://www.facebook.com/groups/917834404933002/?ref=bookmarks).
 
